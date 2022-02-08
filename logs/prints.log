@@ -1,0 +1,7 @@
+15:57:38.329 [main] INFO  baseclasses.Baseclass - cliked on elemnet :zipcode_Xpath value typed is :542896
+15:57:38.435 [main] INFO  baseclasses.Baseclass - cliked on elemnet :telephone_Xpath value typed is :123456789
+15:57:38.522 [main] INFO  baseclasses.Baseclass - cliked on elemnet :continue_Xpath
+15:57:39.790 [main] INFO  baseclasses.Baseclass - cliked on elemnet :shippingcontiue_Xpath
+15:57:40.311 [main] INFO  baseclasses.Baseclass - cliked on elemnet :money_Xpath
+15:57:40.379 [main] INFO  baseclasses.Baseclass - cliked on elemnet :paymentcontinue_Xpath
+15:57:41.203 [main] INFO  baseclasses.Baseclass - cliked on elemnet :placeorder_Xpath

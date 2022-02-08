@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-07T15:56:07 IST" name="Suite" finished-at="2022-02-07T15:57:44 IST" duration-ms="97261">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T15:56:07 IST" name="Test" finished-at="2022-02-07T15:57:44 IST" duration-ms="97261">
+      <class name="positivetest.Orderproduct">
+        <test-method signature="orderSetup()[pri:0, instance:positivetest.Orderproduct@e041f0c]" started-at="2022-02-07T15:56:07 IST" name="orderSetup" finished-at="2022-02-07T15:56:32 IST" duration-ms="25374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderSetup -->
+        <test-method signature="checkout()[pri:1, instance:positivetest.Orderproduct@e041f0c]" started-at="2022-02-07T15:56:32 IST" name="checkout" finished-at="2022-02-07T15:57:37 IST" duration-ms="64722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="addadress()[pri:2, instance:positivetest.Orderproduct@e041f0c]" started-at="2022-02-07T15:57:37 IST" name="addadress" finished-at="2022-02-07T15:57:41 IST" duration-ms="3580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addadress -->
+        <test-method signature="orderverification()[pri:3, instance:positivetest.Orderproduct@e041f0c]" started-at="2022-02-07T15:57:41 IST" name="orderverification" finished-at="2022-02-07T15:57:43 IST" duration-ms="2455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderverification -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:positivetest.Orderproduct@e041f0c]" started-at="2022-02-07T15:57:43 IST" name="teardown" finished-at="2022-02-07T15:57:44 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- positivetest.Orderproduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
